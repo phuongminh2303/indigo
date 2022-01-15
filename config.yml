@@ -11,7 +11,7 @@ INDIGO_FOOTER_NAV_LINKS:
   - title: "Contact"
     url: "/contact"
 INDIGO_FOOTER_LEGAL_LINKS:
-    - title: "Terms of service"
+    - title: "Terms of Service"
       url: "/tos"
-    - title: "Indigo theme for Open edX"
+    - title: "Indigo theme"
       url: "https://github.com/overhangio/indigo"
